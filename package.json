@@ -1,0 +1,16 @@
+{
+  "name": "points-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.coffee",
+  "dependencies": {
+    "underscore": "~1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": "",
+  "author": "Tomas Gluchman",
+  "license": "BSD"
+}
